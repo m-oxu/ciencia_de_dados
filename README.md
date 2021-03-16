@@ -14,4 +14,4 @@ Os conteúdos daqui irão depender da minha disposição, do meu interesse e do 
 
 ## Trilha:
 
-1. <a href="https://m-oxu.medium.com/testes-de-hip%C3%B3tese-revis%C3%A3o-de-estat%C3%ADstica-e-introdu%C3%A7%C3%A3o-a-testes-de-hip%C3%B3teses-em-python-parte-i-49aef100034a"> Revisão de Estatística e Introdução a teste de hipótese</a> (versão <a href="https://github.com/m-oxu/ciencia_de_dados/estatistica/teste_de_hipoteses/intro_stats_hyptest.ipynb">.ipynb<a/>)
+1. <a href="https://m-oxu.medium.com/testes-de-hip%C3%B3tese-revis%C3%A3o-de-estat%C3%ADstica-e-introdu%C3%A7%C3%A3o-a-testes-de-hip%C3%B3teses-em-python-parte-i-49aef100034a"> Revisão de Estatística e Introdução a teste de hipótese</a>
