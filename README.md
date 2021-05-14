@@ -1,4 +1,4 @@
-<h1 align="center">Ciência de Dados</h1>
+<h1 align="center">Estudo de Ciência de Dados</h1>
 
 <p align="center">
 
@@ -10,7 +10,7 @@ Sintam-se à vontade para criticar, comentar ou fidibecar sobre meus conteúdos:
 
 ## Caro ser hipotético
 
-Os conteúdos daqui irão depender da minha disposição, do meu interesse e do meu tempo. Eu anoto tudo que estudo, me estruturar e apresentar são outros quinhentos. A questão é que serã estudos voltados para ciência de dados. Muita coisa pode ser fruto de anotações do curso de Data Science e Machine Learning da <a href="https://somostera.com/cursos/data-science-machine-learning">Tera.</a> Bom, espero que goste! Para uma contribuição direto no notebook, clique <a href="https://colab.research.google.com/drive/1eFzQyAFFqjc8IkjltZaAjdxWn7RyOgkR?usp=sharing">aqui</a>.
+Os conteúdos daqui irão depender da minha disposição, do meu interesse e do meu tempo. Eu anoto tudo que estudo, me estruturar e apresentar são outros quinhentos. A questão é que serã estudos voltados para ciência de dados. Muita coisa pode ser fruto de anotações do curso de Data Science e Machine Learning da <a href="https://somostera.com/cursos/data-science-machine-learning">Tera.</a> Bom, espero que goste!
 
 ## Trilha:
 
